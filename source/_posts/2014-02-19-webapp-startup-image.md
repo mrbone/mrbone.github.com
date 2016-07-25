@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "webapp startup image"
-image:
-categories:
-tag:
+title: IOS webapp startup image
+tags: ios
+date: 2014-02-19 15:09:59
 ---
 
 最近一个项目将一个移动端网站优化，做成类似webapp的效果，才发现ios的各种坑，主要总结下启动图片的各种尺寸：
