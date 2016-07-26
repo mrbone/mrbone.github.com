@@ -6,7 +6,7 @@
     "version": "3.2.2"
   },
   "scripts": {
-    "start": "hexo server -o",
+    "start": "hexo clean && hexo server -o",
     "deploy": "hexo deploy -g"
   },
   "dependencies": {
