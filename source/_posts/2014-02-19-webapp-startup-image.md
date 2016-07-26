@@ -1,6 +1,9 @@
 ---
 title: IOS webapp startup image
-tags: ios
+tags:
+- IOS
+- SPA
+type: "tags"
 date: 2014-02-19 15:09:59
 ---
 
