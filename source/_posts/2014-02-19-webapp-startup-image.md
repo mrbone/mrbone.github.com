@@ -3,7 +3,7 @@ title: IOS webapp startup image
 tags:
 - IOS
 - SPA
-type: "tags"
+categories: Tech
 date: 2014-02-19 15:09:59
 ---
 
